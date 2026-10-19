@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">styczen2023</string>
+    <string-array name="stanowiska">
+        <item name="kierownik">Kierownik</item>
+        <item name="starszyProg">Starszy programista</item>
+        <item name="mlodszyProg">Młodszy programista</item>
+        <item name="tester">Tester</item>
+    </string-array>
+</resources>
